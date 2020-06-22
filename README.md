@@ -7,6 +7,7 @@
 - [Override Abstract Class in Magento 2](https://magento.stackexchange.com/questions/108001/override-abstract-class-in-magento-2)
 - [Magento 2 How to override protected funtion in abstract class?](https://stackoverflow.com/questions/44241663/magento-2-how-to-override-protected-funtion-in-abstract-class)
 - [Rewriting Classes in Magento 2](https://sherocommerce.com/magento-2-class-rewrite-override/)
+- [Magento 2 Backend Configuration: Backend Model](https://magently.com/blog/magento-2-backend-configuration-backend-model-part-23/)
 
 ## Magento 2 Certification Exam- Study Guides
 - [Associate Developer Modules- G Drive](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit)
