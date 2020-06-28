@@ -26,6 +26,7 @@
 - [Professinal Developer- MAGENTO 2 PRACTICE QUESTIONS](https://m2professional.dev/)
 - [Exam Notes](https://github.com/magento-notes/magento2-exam-notes)
 
+## Extra
 
-[PHP Interview Questions](php-interview-questions.html)
+[PHP Interview Questions](php-interview-questions)
 
