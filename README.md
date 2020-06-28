@@ -1,9 +1,20 @@
 ## Welcome to Magento Link Pages
 
 ## Magento 2
-- [Adding Magento 2 Containers](https://www.siphor.com/adding-magento-2-containers/)
+
+### Installation
 - [Memory Issues While Installing](https://magento.stackexchange.com/questions/209976/magento-2-2-2-allowed-memory-size-of-792723456-bytes-exhausted-tried-to-alloc)
+
+### Desgin
+- [Unlock 11 Necessary Design Patterns for Every Magento 2 Developer](https://bsscommerce.com/confluence/magento-2-design-patterns/)
+
+### Frontend
+- [Adding Magento 2 Containers](https://www.siphor.com/adding-magento-2-containers/)
 - [Template Hints](https://magento.stackexchange.com/questions/231153/magento-2-development-is-extremely-slow)
+
+
+
+### Backend
 - [Override Abstract Class in Magento 2](https://magento.stackexchange.com/questions/108001/override-abstract-class-in-magento-2)
 - [Magento 2 How to override protected funtion in abstract class?](https://stackoverflow.com/questions/44241663/magento-2-how-to-override-protected-funtion-in-abstract-class)
 - [Rewriting Classes in Magento 2](https://sherocommerce.com/magento-2-class-rewrite-override/)
