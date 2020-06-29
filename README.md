@@ -18,6 +18,9 @@
 - [Rewriting Classes in Magento 2](https://sherocommerce.com/magento-2-class-rewrite-override/)
 - [Magento 2 Backend Configuration: Backend Model](https://magently.com/blog/magento-2-backend-configuration-backend-model-part-23/)
 
+### Interview
+- [Magento Developer Position](https://magento.stackexchange.com/questions/8240/questions-to-expect-in-an-interview-for-a-junior-magento-developer-position)
+
 ## Magento 2 Certification Exam- Study Guides
 - [Associate Developer Modules- G Drive](https://docs.google.com/document/d/1t61AugL-wE2B7uBzw5ak_ZQTo3Yju_sjb42ecjnWkpc/edit)
 - [Associate Developer Exp](https://www.sudhanshubajaj.com/magento-2-certified-associate-developer-preparation/)
