@@ -17,6 +17,7 @@
 - [Magento 2 How to override protected funtion in abstract class?](https://stackoverflow.com/questions/44241663/magento-2-how-to-override-protected-funtion-in-abstract-class)
 - [Rewriting Classes in Magento 2](https://sherocommerce.com/magento-2-class-rewrite-override/)
 - [Magento 2 Backend Configuration: Backend Model](https://magently.com/blog/magento-2-backend-configuration-backend-model-part-23/)
+- [Magento 2: Creating New Eav Entity and Model (Updated for Data Installation)](http://techjeffyu.com/blog/magento-2-creating-new-eav-entity-and-model)
 
 ### Interview
 - [Magento Developer Position](https://magento.stackexchange.com/questions/8240/questions-to-expect-in-an-interview-for-a-junior-magento-developer-position)
