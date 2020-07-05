@@ -8,6 +8,7 @@
 ### Desgin
 - [Unlock 11 Necessary Design Patterns for Every Magento 2 Developer](https://bsscommerce.com/confluence/magento-2-design-patterns/)
 - [Why Object manager can not instantiate Non-injectable?](https://magento.stackexchange.com/questions/75108/why-object-manager-can-not-instantiate-non-injectable)
+- [how can we implement service contracts in magento 2 in controller?](https://magento.stackexchange.com/questions/251528/how-can-we-implement-service-contracts-in-magento-2-in-controller)
 
 ### Frontend
 - [Adding Magento 2 Containers](https://www.siphor.com/adding-magento-2-containers/)
