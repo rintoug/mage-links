@@ -35,6 +35,7 @@
 
 ### Troubleshoot
 - [Uncaught Error: Call to undefined method Magento\CatalogSearch\Model\ResourceModel\Fulltext\Collection\Interceptor::getCollectionClone() ](https://magento.stackexchange.com/questions/293847/uncaught-error-call-to-undefined-method-magento-2-3-3)
+- [How we found out why products suddenly disappear from the category frontend in Magento 2 and that prices randomly is shown as 0 (zero/free), also on the category pages](https://medium.com/@royandre/how-we-reduced-the-magento-2-price-reindex-process-from-hours-to-minutes-and-how-you-can-too-51744c6571b4)
 
 ### Docker
 - [Docker for Magento 2 Development](https://www.magemodule.com/all-things-magento/magento-2-tutorials/docker-magento-2-development/)
