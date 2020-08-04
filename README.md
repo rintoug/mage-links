@@ -20,6 +20,7 @@
 - [Rewriting Classes in Magento 2](https://sherocommerce.com/magento-2-class-rewrite-override/)
 - [Magento 2 Backend Configuration: Backend Model](https://magently.com/blog/magento-2-backend-configuration-backend-model-part-23/)
 - [Magento 2: Creating New Eav Entity and Model (Updated for Data Installation)](http://techjeffyu.com/blog/magento-2-creating-new-eav-entity-and-model)
+- [Magento 2: Does Module Sequence Impact Layout Handle XML Loading Order?](https://magento.stackexchange.com/questions/102441/magento-2-does-module-sequence-impact-layout-handle-xml-loading-order)
 
 ### Interview
 - [Magento Developer Position](https://magento.stackexchange.com/questions/8240/questions-to-expect-in-an-interview-for-a-junior-magento-developer-position)
