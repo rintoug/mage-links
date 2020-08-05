@@ -1,2 +1,2 @@
-- [x] [](Sample finished item)
-- [ ] [Disable versions in magento 2](https://magento.stackexchange.com/questions/167278/where-do-i-point-my-secure-base-url-for-static-view-files-for-cdn-in-magento-2)
+- [x] (Sample finished item)
+- [] [Disable versions in magento 2](https://magento.stackexchange.com/questions/167278/where-do-i-point-my-secure-base-url-for-static-view-files-for-cdn-in-magento-2)
