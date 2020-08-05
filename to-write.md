@@ -1,2 +1,3 @@
 - [x] [sample items]
 - [ ] [Disable versions in magento 2](https://magento.stackexchange.com/questions/167278/where-do-i-point-my-secure-base-url-for-static-view-files-for-cdn-in-magento-2)
+- [ ] [Cookie restriction mode magento 2](https://docs.magento.com/user-guide/stores/compliance-cookie-restriction-mode.html)
