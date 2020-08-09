@@ -4,6 +4,7 @@
 
 ### Installation
 - [Memory Issues While Installing](https://magento.stackexchange.com/questions/209976/magento-2-2-2-allowed-memory-size-of-792723456-bytes-exhausted-tried-to-alloc)
+- [Folder Permissions in Ubuntu](https://magento.stackexchange.com/questions/175148/permission-change-after-setupupgrade)
 
 ### Desgin
 - [Unlock 11 Necessary Design Patterns for Every Magento 2 Developer](https://bsscommerce.com/confluence/magento-2-design-patterns/)
