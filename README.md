@@ -6,7 +6,7 @@
 - [Memory Issues While Installing](https://magento.stackexchange.com/questions/209976/magento-2-2-2-allowed-memory-size-of-792723456-bytes-exhausted-tried-to-alloc)
 - [Folder Permissions in Ubuntu](https://magento.stackexchange.com/questions/175148/permission-change-after-setupupgrade)
 
-### Desgin
+### Design
 - [Unlock 11 Necessary Design Patterns for Every Magento 2 Developer](https://bsscommerce.com/confluence/magento-2-design-patterns/)
 - [Why Object manager can not instantiate Non-injectable?](https://magento.stackexchange.com/questions/75108/why-object-manager-can-not-instantiate-non-injectable)
 - [how can we implement service contracts in magento 2 in controller?](https://magento.stackexchange.com/questions/251528/how-can-we-implement-service-contracts-in-magento-2-in-controller)
@@ -23,6 +23,9 @@
 - [Magento 2: Creating New Eav Entity and Model (Updated for Data Installation)](http://techjeffyu.com/blog/magento-2-creating-new-eav-entity-and-model)
 - [Magento 2: Does Module Sequence Impact Layout Handle XML Loading Order?](https://magento.stackexchange.com/questions/102441/magento-2-does-module-sequence-impact-layout-handle-xml-loading-order)
 - [Magento 2 Sample Codes ](https://github.com/magento/magento2-samples)
+
+### Orders
+- [Order ID is not gettting after observer](https://magento.stackexchange.com/questions/152350/magento-2-sales-order-place-after-not-returning-order-id)
 
 ### Interview
 - [Magento Developer Position](https://magento.stackexchange.com/questions/8240/questions-to-expect-in-an-interview-for-a-junior-magento-developer-position)
