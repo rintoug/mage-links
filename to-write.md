@@ -8,3 +8,4 @@
 - [ ] [How to Implement jQuery Datepicker with Timepicker](https://artisansweb.net/how-to-implement-jquery-datepicker-with-timepicker/)
 - [ ] [Display Posts From Specific Category On A WordPress Page](https://artisansweb.net/display-posts-specific-category-wordpress-page/)
 - [ ] [Trix – An Open Source WYSIWYG Editor for Websites](https://artisansweb.net/trix-an-open-source-wysiwyg-editor-for-websites/)
+- [ ] [Working with custom taxonomy in Wordpress](https://developer.wordpress.org/plugins/taxonomies/working-with-custom-taxonomies/)
