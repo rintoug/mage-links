@@ -11,3 +11,4 @@
 - [ ] [Working with custom taxonomy in Wordpress](https://developer.wordpress.org/plugins/taxonomies/working-with-custom-taxonomies/)
 - [ ] [Find largest attachements in Email](https://www.labnol.org/internet/gmail-size-search/26669/)
 - [ ] [Reverse Image Search](https://www.labnol.org/reverse/) [link2](https://me.pcmag.com/smartphones/3755/now-you-can-do-a-google-reverse-image-search-from-your-phone)
+- [ ] [How to create and insert data into the table in Magento 2](https://bsscommerce.com/confluence/how-to-create-insert-data-into-the-table-in-magento-2/)
