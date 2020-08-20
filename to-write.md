@@ -16,3 +16,4 @@
 - [ ] [How to Convert YouTube to MP3](https://www.wikihow.com/Convert-YouTube-to-MP3)
 - [ ] [Magento 2: How to Save Custom Attribute Value After Customer Register](https://magecomp.com/blog/magento-2-save-custom-attribute-value-customer-register/)
 - [ ] [Install Multiple WordPress Sites in DigitalOcean – Easy Way](https://wpspeedmatters.com/install-multiple-wordpress-in-digitalocean-easy-guide/)
+- [ ] [How to Clean Caches & Temporary Files from Mac OS](https://osxdaily.com/2017/04/18/clean-caches-temporary-files-mac/)
