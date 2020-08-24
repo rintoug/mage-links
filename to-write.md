@@ -18,4 +18,4 @@
 - [ ] [Install Multiple WordPress Sites in DigitalOcean – Easy Way](https://wpspeedmatters.com/install-multiple-wordpress-in-digitalocean-easy-guide/)
 - [ ] [How to Clean Caches & Temporary Files from Mac OS](https://osxdaily.com/2017/04/18/clean-caches-temporary-files-mac/)
 - [ ] [How to show a Wi-Fi password on macOS](https://www.idownloadblog.com/2014/05/18/how-to-find-a-wi-fi-password-on-mac/)
-- [ ] [Magento 2.3 : Create a New Table using Declarative Schema]((https://www.rohanhapani.com/magento-2-3-create-a-new-table-using-declarative-schema/)
+- [ ] [Magento 2.3 : Create a New Table using Declarative Schema](https://www.rohanhapani.com/magento-2-3-create-a-new-table-using-declarative-schema/) [Link 2](https://magento.stackexchange.com/questions/251884/magento-2-3-how-to-implement-declarative-schema-in-custom-module)
