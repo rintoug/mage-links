@@ -21,4 +21,4 @@
 - [ ] [Magento 2.3 : Create a New Table using Declarative Schema](https://www.rohanhapani.com/magento-2-3-create-a-new-table-using-declarative-schema/) [Link 2](https://magento.stackexchange.com/questions/251884/magento-2-3-how-to-implement-declarative-schema-in-custom-module)
 
 ***NON TECH***
-- [ ] [12 Places to Find Freelance Work Online](https://www.thebalancecareers.com/find-freelance-work-online-2072051)
+- [ ] [12 Places to Find Freelance Work Online](https://www.thebalancecareers.com/find-freelance-work-online-2072051) [ keyword - how to get freelance jobs]
