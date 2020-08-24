@@ -17,3 +17,4 @@
 - [ ] [Magento 2: How to Save Custom Attribute Value After Customer Register](https://magecomp.com/blog/magento-2-save-custom-attribute-value-customer-register/)
 - [ ] [Install Multiple WordPress Sites in DigitalOcean – Easy Way](https://wpspeedmatters.com/install-multiple-wordpress-in-digitalocean-easy-guide/)
 - [ ] [How to Clean Caches & Temporary Files from Mac OS](https://osxdaily.com/2017/04/18/clean-caches-temporary-files-mac/)
+- [ ] [How to show a Wi-Fi password on macOS](https://www.idownloadblog.com/2014/05/18/how-to-find-a-wi-fi-password-on-mac/)
