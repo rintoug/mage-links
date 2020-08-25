@@ -19,6 +19,8 @@
 - [ ] [How to Clean Caches & Temporary Files from Mac OS](https://osxdaily.com/2017/04/18/clean-caches-temporary-files-mac/)
 - [ ] [How to show a Wi-Fi password on macOS](https://www.idownloadblog.com/2014/05/18/how-to-find-a-wi-fi-password-on-mac/)
 - [ ] [Magento 2.3 : Create a New Table using Declarative Schema](https://www.rohanhapani.com/magento-2-3-create-a-new-table-using-declarative-schema/) [Link 2](https://magento.stackexchange.com/questions/251884/magento-2-3-how-to-implement-declarative-schema-in-custom-module)
+- [ ] [“Your session has expired” On Clicking Add To Cart In Magento 2.3 Localhost](https://meetanshi.com/blog/solution-your-session-has-expired-on-clicking-add-to-cart-in-magento-2-3-localhost/)
+- [ ] [MAGENTO 2: CHANGE THE BASE-URL USING THE COMMAND LINE](https://blog.netgloo.com/2016/05/13/magento-2-change-base-url-using-the-command-line/)
 - [ ] [***Insert Data using ajax in codeigniter***](https://www.phptpoint.com/insert-data-using-jquery-ajax-in-codeigniter/)
 
 ***NON TECH***
