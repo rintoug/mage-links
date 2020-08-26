@@ -7,7 +7,7 @@
 - [ ] [How to get client user ip address in php](https://phppot.com/php/how-to-get-the-client-user-ip-address-in-php/)
 - [x] [How to Implement jQuery Datepicker with Timepicker](https://artisansweb.net/how-to-implement-jquery-datepicker-with-timepicker/)
 - [ ] [Display Posts From Specific Category On A WordPress Page](https://artisansweb.net/display-posts-specific-category-wordpress-page/)
-- [ ] [Trix – An Open Source WYSIWYG Editor for Websites](https://artisansweb.net/trix-an-open-source-wysiwyg-editor-for-websites/)
+- [x] [Trix – An Open Source WYSIWYG Editor for Websites](https://artisansweb.net/trix-an-open-source-wysiwyg-editor-for-websites/)
 - [x] [Working with custom taxonomy in Wordpress](https://developer.wordpress.org/plugins/taxonomies/working-with-custom-taxonomies/)
 - [ ] [Find largest attachements in Email](https://www.labnol.org/internet/gmail-size-search/26669/)
 - [ ] [Reverse Image Search](https://www.labnol.org/reverse/) [link2](https://me.pcmag.com/smartphones/3755/now-you-can-do-a-google-reverse-image-search-from-your-phone)
