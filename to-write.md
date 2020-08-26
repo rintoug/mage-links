@@ -22,6 +22,7 @@
 - [ ] [“Your session has expired” On Clicking Add To Cart In Magento 2.3 Localhost](https://meetanshi.com/blog/solution-your-session-has-expired-on-clicking-add-to-cart-in-magento-2-3-localhost/)
 - [ ] [MAGENTO 2: CHANGE THE BASE-URL USING THE COMMAND LINE](https://blog.netgloo.com/2016/05/13/magento-2-change-base-url-using-the-command-line/)
 - [ ] [***Insert Data using ajax in codeigniter***](https://www.phptpoint.com/insert-data-using-jquery-ajax-in-codeigniter/)
+- [ ] [53+ Best Affiliate Programs for Bloggers in 2020 (to Earn Affiliate Income from Blogging)](https://www.ryrob.com/affiliate-programs-bloggers/)
 
 ***NON TECH***
 - [ ] [12 Places to Find Freelance Work Online](https://www.thebalancecareers.com/find-freelance-work-online-2072051) [ keyword - how to get freelance jobs]
