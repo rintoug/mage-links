@@ -5,5 +5,5 @@
 
 #### MODULES ####
 ##### Custom Fee #####
-https://github.com/sivajik34/Custom-Fee-Magento2
-https://github.com/magecomp/magento2-extra-fee
+- https://github.com/sivajik34/Custom-Fee-Magento2
+- https://github.com/magecomp/magento2-extra-fee
