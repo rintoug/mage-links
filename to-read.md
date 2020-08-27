@@ -7,3 +7,6 @@
 ##### Custom Fee #####
 - https://github.com/sivajik34/Custom-Fee-Magento2
 - https://github.com/magecomp/magento2-extra-fee
+
+##### City DropDown at checkout #####
+- https://magento.stackexchange.com/questions/292930/how-can-i-change-the-city-name-to-drop-down-on-checkout-page-magento-2
