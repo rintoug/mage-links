@@ -1,5 +1,5 @@
 - [x] [sample items]
-- [ ] [Disable versions in magento 2](https://magento.stackexchange.com/questions/167278/where-do-i-point-my-secure-base-url-for-static-view-files-for-cdn-in-magento-2)
+- [x] [Disable versions in magento 2](https://magento.stackexchange.com/questions/167278/where-do-i-point-my-secure-base-url-for-static-view-files-for-cdn-in-magento-2)
 - [ ] [Cookie restriction mode magento 2](https://docs.magento.com/user-guide/stores/compliance-cookie-restriction-mode.html)
 - [ ] [Sales Place Order After](https://www.fmeextensions.com/blog/sales_order_place_after_event_in_magento_2/)
 - [ ] [How to Get Current Date and Time in Bash Script](https://tecadmin.net/get-current-date-and-time-in-bash/)
