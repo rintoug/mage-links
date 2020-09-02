@@ -25,6 +25,7 @@
 - [ ] [53+ Best Affiliate Programs for Bloggers in 2020 (to Earn Affiliate Income from Blogging)](https://www.ryrob.com/affiliate-programs-bloggers/)
 - [ ] [6 Amazing websites that aren't youtube](https://www.yumyumvideos.com/6-amazing-video-websites-that-arent-youtube-wp/)
 - [ ] [Multiple PHP snippets](https://www.sanwebe.com/2014/09/useful-php-snippets)
+- [ ] [Check Website Availability in PHP using Curl](https://www.codexworld.com/how-to/check-website-availability-php-curl/)
 
 ***NON TECH***
 - [ ] [12 Places to Find Freelance Work Online](https://www.thebalancecareers.com/find-freelance-work-online-2072051) [ keyword - how to get freelance jobs]
