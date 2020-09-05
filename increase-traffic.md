@@ -1,0 +1,1 @@
+- [From Google Console](https://neilpatel.com/blog/#p-96420)
