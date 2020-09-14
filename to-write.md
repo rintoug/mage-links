@@ -29,6 +29,7 @@
 - [ ] [How to create customer account in Magento2](https://www.mageplaza.com/kb/how-to-create-customer-account-in-magento-2.html)
 - [ ] [How to Use jQuery Widgets in Magento 2](https://magently.com/blog/magento-2-javascript-jquery-widgets/)
 - [ ] [jQuery Autocomplete with XML Data Source](https://phppot.com/jquery/jquery-autocomplete-with-xml-data-source/)
+- [ ] [Inventory & Stock Management script in PHP](https://www.bestjquery.com/2017/09/inventory-stock-management-script-php/)
 
 ***NON TECH***
 - [ ] [12 Places to Find Freelance Work Online](https://www.thebalancecareers.com/find-freelance-work-online-2072051) [ keyword - how to get freelance jobs]
