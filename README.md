@@ -7,11 +7,16 @@
 - [Folder Permissions in Ubuntu](https://magento.stackexchange.com/questions/175148/permission-change-after-setupupgrade)
 - [Docker for local web development, part 1: a basic LEMP stack](https://tech.osteel.me/posts/docker-for-local-web-development-part-1-a-basic-lemp-stack)
 
+### Development
+- [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar)
+- [H&O Magento 2 Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints)
+
 ### Design
 - [Unlock 11 Necessary Design Patterns for Every Magento 2 Developer](https://bsscommerce.com/confluence/magento-2-design-patterns/)
 - [Why Object manager can not instantiate Non-injectable?](https://magento.stackexchange.com/questions/75108/why-object-manager-can-not-instantiate-non-injectable)
 - [how can we implement service contracts in magento 2 in controller?](https://magento.stackexchange.com/questions/251528/how-can-we-implement-service-contracts-in-magento-2-in-controller)
 - [Preferences, Types and Virtual Types](https://magently.com/blog/magento-2-design-patterns-preferences-virtual-types/)
+- [Magento 2 Repositories, Interfaces and the Web API](http://vinaikopp.com/2017/02/18/magento2_repositories_interfaces_and_webapi/)
 
 ### Frontend
 - [Adding Magento 2 Containers](https://www.siphor.com/adding-magento-2-containers/)
