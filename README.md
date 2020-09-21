@@ -2,6 +2,9 @@
 
 ## Magento 2
 
+### Read this first
+- [Magento 2 module from scratch - Introduction](https://www.ashsmith.io/magento2/module-from-scratch-introduction/)
+
 ### Installation
 - [Memory Issues While Installing](https://magento.stackexchange.com/questions/209976/magento-2-2-2-allowed-memory-size-of-792723456-bytes-exhausted-tried-to-alloc)
 - [Folder Permissions in Ubuntu](https://magento.stackexchange.com/questions/175148/permission-change-after-setupupgrade)
