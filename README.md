@@ -20,6 +20,7 @@
 - [how can we implement service contracts in magento 2 in controller?](https://magento.stackexchange.com/questions/251528/how-can-we-implement-service-contracts-in-magento-2-in-controller)
 - [Preferences, Types and Virtual Types](https://magently.com/blog/magento-2-design-patterns-preferences-virtual-types/)
 - [Magento 2 Repositories, Interfaces and the Web API](http://vinaikopp.com/2017/02/18/magento2_repositories_interfaces_and_webapi/)
+- [Virtual Types](https://asolutions.co.in/virtual-type-in-magento-2/)
 
 ### Frontend
 - [Adding Magento 2 Containers](https://www.siphor.com/adding-magento-2-containers/)
