@@ -1,0 +1,2 @@
+- [https://www.codenewbie.org/](https://www.codenewbie.org/)
+- [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
