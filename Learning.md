@@ -1,3 +1,3 @@
-- [https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/](Good Article For Motivation)
+- [https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich] (Good Article For Motivation)
 - [https://www.codenewbie.org/](https://www.codenewbie.org/)
 - [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
