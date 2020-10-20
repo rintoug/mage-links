@@ -21,6 +21,7 @@
 - [Preferences, Types and Virtual Types](https://magently.com/blog/magento-2-design-patterns-preferences-virtual-types/)
 - [Magento 2 Repositories, Interfaces and the Web API](http://vinaikopp.com/2017/02/18/magento2_repositories_interfaces_and_webapi/)
 - [Virtual Types](https://asolutions.co.in/virtual-type-in-magento-2/)
+- [Resolving Session Bottleneck in Magento AJAX Requests](https://www.integer-net.com/resolving-session-bottleneck-magento-ajax-requests/)
 
 ### Frontend
 - [Adding Magento 2 Containers](https://www.siphor.com/adding-magento-2-containers/)
